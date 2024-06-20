@@ -1,0 +1,8 @@
+header{
+    display: grid;
+    justify-content: center;
+    font-size: large;
+}
+body{
+    background-color: antiquewhite;
+}
